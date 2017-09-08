@@ -3,4 +3,5 @@
 
 Full Wii Database of Games
 
-[Legend of Zelda Skyward Sword](https://drive.google.com/open?id=0BxFRQXhq0LP4MkZSOXJVTUZXWWs)
+List is in A-Z format
+1.[Legend of Zelda Skyward Sword](https://drive.google.com/open?id=0BxFRQXhq0LP4MkZSOXJVTUZXWWs)
