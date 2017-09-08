@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome To Wii DataBase
 
 You can use the [editor on GitHub](https://github.com/Iam2smart/WiiDatabase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
